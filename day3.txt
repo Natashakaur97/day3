@@ -25,7 +25,7 @@ using System;
         Console.ReadLine();
        }
     }
----------------------------------Getdetails function program of employee--------------------------------------------
+//Getdetails function program of employee
 
 using System;
     class Employee
@@ -62,7 +62,7 @@ using System;
         Console.ReadLine();
        }
     }
---------------------------Getdetails function program of student----------------------------------------------------------
+//Getdetails function program of student
 
 
 using System;
@@ -100,7 +100,7 @@ using System;
         Console.ReadLine();
        }
     }
----------------------------Inheritance Program of animal and dog---------------------------------------
+//inheritance Program of animal and dog
 using System;
  public class Animal
   {
@@ -124,7 +124,7 @@ public class Dog:Animal
     Console.ReadLine();
    }
  }
----------------------------------------Inheritance Program----------------------------------------------------
+-Inheritance Program-
 
 using System;
   public class Grandfather
@@ -175,7 +175,7 @@ using System;
    Console.ReadLine();
   }
 }
--------------------------Inheritance Program for shape--------------------------------------------------------------  
+-Inheritance Program for shape---  
 using System;
 
 public class shape 
@@ -231,7 +231,7 @@ public class Program
 	  }
   }
 }
----------------------Program on wholeseller--------------------------------------------------
+//Program on wholeseller
 using System;
 
 public abstract class wholeseller
@@ -266,7 +266,7 @@ public   static void Main(string[] args)
     r1.Discount(); 	
   }
 }
------------------------Program given by sir------------------------------------------------------------------------------------
+//Program given by sir
 Create a new C # project with three classes plus another class to test the logic in your code. The main classes of the program are the following classes:
 
  
@@ -361,7 +361,7 @@ public class Teacher : Person
         Console.WriteLine("I'm explaining");
     }
 }
--------------------------------------------------------------Program given by sir-----------------------------------------------------------------------------------------
+//Program given by sir
 
 
 
